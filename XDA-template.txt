@@ -1,0 +1,18 @@
+[CENTER][IMG]https://i.postimg.cc/SRY549YZ/matrixx.png[/IMG]
+[B] Rom based on crDroid Android
+
+[U]Disclaimer[/U][/B]
+* We're not responsible for bricked devices, dead SD card or anything happens with your device
+* Flash on your own risk/knowledge.
+[B]-------------------------------------------------------------------------------------------------------------------------------------------[/B]
+[SIZE=4][B][U]** Credit & Thanks **[/U][/B][/SIZE]
+[B][SIZE=4]TEAM crDroid Android :[/SIZE] [/B] For Code base.
+[SIZE=4][B][USER=8829870]@SuperDroidBond[/USER] [/B][/SIZE] For prompt help.
+[SIZE=4][B][USER=5545371]@Roger.T[/USER] :[/B] [/SIZE]For Logo, Banner & Bootanimation.
+[B]---------------------------------------------------------------------[/B]
+[B]ROM Source:[/B] [URL='https://github.com/ProjectMatrixx']HERE[/URL]
+[B]Kernel Source:[/B] [URL='https://github.com/Matrixx-Devices']HERE[/URL]
+[B]Telegram Support:[/B] [URL='https://t.me/matrixx_community']HERE[/URL]
+[B]--------------------------------
+Matrixx by : [/B][USER=12517809]@Mrick343[/USER] [USER=12653417]@mukesh22584[/USER]
+[/CENTER]
