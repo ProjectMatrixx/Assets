@@ -1,18 +1,19 @@
-[CENTER][IMG]https://i.postimg.cc/LhFYdz13/Banner-Logo-Header.png[/IMG]
-[B] Rom based on crDroid Android
+[CENTER][IMG]https://i.postimg.cc/BQRcgV6h/Banner-A15.png[/IMG]
+[B] Based on crDroid Android
 
-[U]Disclaimer[/U][/B]
+[U][COLOR=rgb(226, 80, 65)]Disclaimer[/COLOR][/U][/B]
 * We're not responsible for bricked devices, dead SD card or anything happens with your device
 * Flash on your own risk/knowledge.
-[B]-------------------------------------------------------------------------------------------------------------------------------------------[/B]
-[SIZE=4][B][U]** Credit & Thanks **[/U][/B][/SIZE]
-[B][SIZE=4]TEAM crDroid Android :[/SIZE] [/B] For Code base.
-[SIZE=4][B][USER=8829870]@SuperDroidBond[/USER] [/B][/SIZE] For prompt help.
-[SIZE=4][B][USER=5545371]@Roger.T[/USER] :[/B] [/SIZE]For Logo, Banner & Bootanimation.
-[B]---------------------------------------------------------------------[/B]
-[B]ROM Source:[/B] [URL='https://github.com/ProjectMatrixx']HERE[/URL]
-[B]Kernel Source:[/B] [URL='https://github.com/Matrixx-Devices']HERE[/URL]
-[B]Telegram Support:[/B] [URL='https://t.me/matrixx_community']HERE[/URL]
-[B]--------------------------------
-Matrixx by : [/B][USER=12517809]@Mrick343[/USER] [USER=12653417]@mukesh22584[/USER]
-[/CENTER]
+
+
+[SIZE=4][B]: : [U]Credit & Thanks[/U] : : 
+
+[URL='https://github.com/crdroidandroid']TEAM crDroid Android[/URL] : [/B]For Code base.
+[B][URL='https://t.me/XelXen/']WAZE [/URL] : [/B]For Android 15 Banner & Bootanimation.
+[B][USER=12517809]@Mrick343[/USER] : [/B]Core Team member since project started.
+
+[B]Foundation:[/B] [USER=8829870]@SuperDroidBond[/USER] | [USER=5545371]@Roger.T[/USER] | [USER=12653417]@mukesh22584[/USER]
+
+[B]Sources:[/B] [URL='https://github.com/ProjectMatrixx']ROM Source[/URL] | [URL='https://github.com/Matrixx-Devices']Kernel Source[/URL] | [URL='https://t.me/matrixx_community']Telegram Support[/URL]
+
+[B]Project Matrixx by : [/B][URL='https://t.me/darkphnx/'][B]darkphnx[/B][/URL] | [URL='https://t.me/Roxor007/'][B]Roxor007[/B][/URL] | [URL='https://t.me/Ghosuto7/'][B]GHOST[/B][/URL] | [URL='https://t.me/Y_azzDaN/'][B]AAMIR[/B][/URL] | [URL='https://t.me/Whyred_404/'][B]Arijit Saha[/B][/URL][/SIZE][/CENTER]
