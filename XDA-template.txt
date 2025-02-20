@@ -1,4 +1,4 @@
-[CENTER][IMG]https://i.postimg.cc/BQRcgV6h/Banner-A15.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/15.0/banner.png[/IMG]
 [B] Based on crDroid Android
 
 [U][COLOR=rgb(226, 80, 65)]Disclaimer[/COLOR][/U][/B]
