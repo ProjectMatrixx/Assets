@@ -1,4 +1,4 @@
-[CENTER][IMG]https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/15.0/banner.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/16.0/banner.png[/IMG]
 [B] Based on crDroid Android
 
 [U][COLOR=rgb(226, 80, 65)]Disclaimer[/COLOR][/U][/B]
@@ -9,7 +9,7 @@
 [SIZE=4][B]: : [U]Credit & Thanks[/U] : : 
 
 [URL='https://github.com/crdroidandroid']TEAM crDroid Android[/URL] : [/B]For Code base.
-[B][URL='https://t.me/XelXen/']WAZE [/URL] : [/B]For Android 15 Banner & Bootanimation.
+[B][URL='https://t.me/XelXen/']WAZE [/URL] : [/B]For Android 16 Banner & Bootanimation.
 [B][USER=12517809]@Mrick343[/USER] : [/B]Core Team member since project started.
 
 [B]Foundation:[/B] [USER=8829870]@SuperDroidBond[/USER] | [USER=5545371]@Roger.T[/USER] | [USER=12653417]@mukesh22584[/USER]
